@@ -4,7 +4,7 @@
 
 ## Contributing
 
-If you want to contribute, read the [CONTRIBUTING](../cyberdico.github.io/CONTRIBUTING.md) file to learn how to do so.
+If you want to contribute, read the [CONTRIBUTING](/CONTRIBUTING.md) file to learn how to do so.
 
 ## Code of conduct
 
