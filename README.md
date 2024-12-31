@@ -1,39 +1,21 @@
-# Chirpy Starter
+# The CyberShop
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
-
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+![The CyberShop banner](/assets/img/banner/TC-banner.png)
 
 ## Contributing
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+If you want to contribute, read the [CONTRIBUTING](../cyberdico.github.io/CONTRIBUTING.md) file to learn how to do so.
 
-## License
+## Code of conduct
+
+Here is our [CODE_OF_CONDUCT](../cyberdico.github.io/CODE_OF_CONDUCT.md) for all contributors.
+
+## Build with
+
+- [Jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- [Github-pages](https://pages.github.com/)
+
+## License Jekyll theme chirpy
 
 This work is published under [MIT][mit] License.
 
@@ -41,3 +23,8 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Contributors
+
+<a href="https://github.com/cyberdico/cyberdico.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cyberdico/cyberdico.github.io" />
