@@ -8,7 +8,7 @@ If you want to contribute, read the [CONTRIBUTING](/CONTRIBUTING.md) file to lea
 
 ## Code of conduct
 
-Here is our [CODE_OF_CONDUCT](../cyberdico.github.io/CODE_OF_CONDUCT.md) for all contributors.
+Here is our [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) for all contributors.
 
 ## Build with
 
